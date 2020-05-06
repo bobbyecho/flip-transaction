@@ -8,7 +8,6 @@
 - Redux (State Management)
 - Rematch (Redux Library)
 - React native paper (UI Library)
-- Thwack (HTTP Client)
 
 #### Features
 
